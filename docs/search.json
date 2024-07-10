@@ -1,0 +1,47 @@
+{
+  "articles": [
+    {
+      "path": "group.html",
+      "title": "Group",
+      "author": [],
+      "contents": "\nComing soon.\n\n\n\n",
+      "last_modified": "2024-07-10T17:56:10-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Genevera Allen",
+      "author": [],
+      "contents": "\nWebsite coming soon.\n\n\n\n",
+      "last_modified": "2024-07-10T17:56:11-04:00"
+    },
+    {
+      "path": "news.html",
+      "title": "News",
+      "author": [],
+      "contents": "\nComing soon.\n\n\n\n",
+      "last_modified": "2024-07-10T17:56:11-04:00"
+    },
+    {
+      "path": "research.html",
+      "title": "Research",
+      "author": [],
+      "contents": "\nComing soon.\n\n\n\n",
+      "last_modified": "2024-07-10T17:56:11-04:00"
+    },
+    {
+      "path": "software.html",
+      "title": "Software",
+      "author": [],
+      "contents": "\nComing soon.\n\n\n\n",
+      "last_modified": "2024-07-10T17:56:12-04:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Teaching",
+      "author": [],
+      "contents": "\nComing soon.\n\n\n\n",
+      "last_modified": "2024-07-10T17:56:12-04:00"
+    }
+  ],
+  "collections": []
+}
