@@ -1,0 +1,59 @@
+---
+title: "News"
+---
+
+<br>
+
+::: {.grid}
+
+::: {.g-col-2}
+August 2024
+:::
+::: {.g-col-10}
+Group alumni Lili Zheng starts as an Assistant Professor at University of Illinois Urbana-Champaign!
+:::
+
+
+
+::: {.g-col-2}
+August 2024
+:::
+::: {.g-col-10}
+Group alumni Tiffany Tang starts as an Assistant Professor at the University of Notre Dame!
+:::
+
+
+::: {.g-col-2}
+August 2024
+:::
+::: {.g-col-10}
+Group alumni Minjie Wang starts as an Assistant Professor at Binghamton University!
+:::
+
+
+::: {.g-col-2}
+July 2024
+:::
+::: {.g-col-10}
+Tarek Zikry joins the group as a postdoctoral scholar.  Welcome Tarek!
+:::
+
+
+
+::: {.g-col-2}
+July 2024
+:::
+::: {.g-col-10}
+Genevera officially joins Columbia as a Professor of Statistics and member of the Center for Theoretical Neuroscience at the Zuckerman Institute for Mind, Brain, and Behavior and the Irving Institute for Cancer Dynamics.  
+:::
+
+
+::: {.g-col-2}
+May 2024
+:::
+::: {.g-col-10}
+Genevera is named an IMS Fellow! [Link](https://stat.columbia.edu/2024/05/06/congratulations-to-dr-genevera-allen-for-being-named-an-institute-of-mathematical-statistics-fellow/)
+:::
+
+
+:::

@@ -1,0 +1,58 @@
+---
+title: "Teaching"
+---
+
+
+
+## Columbia Courses
+
+### Fall 2024
+
+#### STCS 6701 GR Probablistic Models & Machine Learning (New Name: Statistical Machine Learning)
+
+Statistical Machine Learning is a PhD-level course on statistical and probabilistic
+foundations of machine learning. We will cover statistical machine learning methods, theory,
+and inference as well as how to apply such methods to real problems. We study both the
+foundations and modern methods in this field. Our goals are to understand statistical machine
+learning, to begin research that makes contributions to this field, and to develop good practices
+for building and applying these models in practice.
+<br>
+Lectures: MW 2:40pm - 3:55pm
+
+## Data Science & Machine Learning Education
+
+::: {.grid}
+::: {.g-col-6}
+
+![](images/Genevera-Allen-D2K-Showcase-2019-2.jpg)
+:::
+::: {.g-col-6}
+
+Genevera Allen is a sought after educator in machine learning and data science. She has developed and taught a variety of machine learning courses as well as several novel experiential learning courses in data science. These include an interdisciplinary data science capstone program where students work on real-world challenges and data sets from a variety of industries and disciplines. 
+:::
+:::
+
+### Rice Center for Transforming Data to Knowledge (Rice D2K Lab)
+
+::: {.grid}
+::: {.g-col-8}
+
+In 2018, Genevera Allen founded and served as the Faculty Director of Rice's data science education center, informally known as the [Rice D2K Lab](https://d2k.rice.edu/).  The D2K Lab is a hub for data science education, providing students with engagement, enrichment, and experiential learning opportunities by connecting them with real-world data science challenges from companies, community organizations, and researchers. As part of these efforts, Genevera developed several new experiential learning courses including a novel data science capstone program that serves as the cornerstone of Rice's data science undergraduate and masters degree programs.  
+
+
+:::
+::: {.g-col-4}
+
+![](images/D2K-logo-white-on-blue.png)
+
+:::
+:::
+
+
+#### Education Research
+
+<details>
+<summary>Key Publications:</summary>
+- Here
+</details>
+

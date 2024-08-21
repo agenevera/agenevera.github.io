@@ -1,47 +1,135 @@
-{
-  "articles": [
-    {
-      "path": "group.html",
-      "title": "Group",
-      "author": [],
-      "contents": "\nComing soon.\n\n\n\n",
-      "last_modified": "2024-07-10T17:56:10-04:00"
-    },
-    {
-      "path": "index.html",
-      "title": "Genevera Allen",
-      "author": [],
-      "contents": "\nWebsite coming soon.\n\n\n\n",
-      "last_modified": "2024-07-10T17:56:11-04:00"
-    },
-    {
-      "path": "news.html",
-      "title": "News",
-      "author": [],
-      "contents": "\nComing soon.\n\n\n\n",
-      "last_modified": "2024-07-10T17:56:11-04:00"
-    },
-    {
-      "path": "research.html",
-      "title": "Research",
-      "author": [],
-      "contents": "\nComing soon.\n\n\n\n",
-      "last_modified": "2024-07-10T17:56:11-04:00"
-    },
-    {
-      "path": "software.html",
-      "title": "Software",
-      "author": [],
-      "contents": "\nComing soon.\n\n\n\n",
-      "last_modified": "2024-07-10T17:56:12-04:00"
-    },
-    {
-      "path": "teaching.html",
-      "title": "Teaching",
-      "author": [],
-      "contents": "\nComing soon.\n\n\n\n",
-      "last_modified": "2024-07-10T17:56:12-04:00"
-    }
-  ],
-  "collections": []
-}
+[
+  {
+    "objectID": "bio.html#bio",
+    "href": "bio.html#bio",
+    "title": "Genevera Allen",
+    "section": "Bio",
+    "text": "Bio\nGenevera Allen is a Professor of Statistics at Columbia University. She is also a member of the Center for Theoretical Neuroscience, the Zuckerman Institute for Mind, Brain, and Behavior, and the Irving Institute for Cancer Dynamics. Prior to joining Columbia, Dr. Allen spent fourteen years at Rice University in the Departments of Electrical and Computer Engineering, Statistics, and Computer Science; she was also the Founder and served as the Faculty Director of Rice’s data science education center, informally known as the Rice D2K Lab.\nDr. Allen’s research develops new statistical machine learning tools to help people make reliable discoveries from data. She is known for her methods and theory work in the areas of unsupervised learning, interpretable machine learning, data integration, graphical models, and high-dimensional statistics. Her work is motivated by solving real scientific problems, especially in the areas of neuroscience and bioinformatics.\nDr. Allen is the recipient of several honors including a National Science Foundation Career Award, Rice University’s Duncan Achievement Award for Outstanding Faculty, and in 2014, she was named to the “Forbes ’30 under 30′: Science and Healthcare” list. She is also an elected fellow of the American Statistical Association, Institute of Mathematical Statistics, and International Statistics Institute.\nDr. Allen serves as an Action Editor for the Journal of Machine Learning Research, an Associate Editor for the Journal of the American Statistical Association: Theory and Methods and the Journal of the Royal Statistical Society: Series B, on the editorial board of Foundations and Trends in Machine Learning and Annual Reviews of Statistics and Its Application, and finally as a Series Editor for Springer Texts in Statistics.\nDr. Allen received her Ph.D. in statistics from Stanford University, under the mentorship of Prof. Robert Tibshirani, and her bachelors, also in statistics, from Rice University."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Genevera Allen",
+    "section": "",
+    "text": "Genevera’s Bio\nCurriculum Vitae\nGoogle Scholar Page\n\nContact\nEmail: firstname.lastname@columbia.edu Offices: SSW 1028 & JLG L5-068\n\n\n\n\n\n\nGenevera Allen is a Professor of Statistics at Columbia University. She is also a member of the Center for Theoretical Neuroscience, the Zuckerman Institute for Mind, Brain, and Behavior, and the Irving Institute for Cancer Dynamics. Prior to joining Columbia, Dr. Allen spent fourteen years at Rice University where she founded and directed Rice’s data science education center, informally known as the Rice D2K Lab.\nDr. Allen’s research develops new statistical machine learning tools to help people make reliable discoveries from data.\n\nResearch Interests\n\nUnsupervised Learning\nInterpretable Machine Learning\nGraphical Models\nData Integration\nHigh-Dimensional Statistics\nNeuroscience\nBiomedicine\n\n\n\nOpenings\nWe have openings for postdoctoral scholars, PhD students, and undergraduates. Learn more here."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "August 2024\n\n\nGroup alumni Lili Zheng starts as an Assistant Professor at University of Illinois Urbana-Champaign!\n\n\nAugust 2024\n\n\nGroup alumni Tiffany Tang starts as an Assistant Professor at the University of Notre Dame!\n\n\nAugust 2024\n\n\nGroup alumni Minjie Wang starts as an Assistant Professor at Binghamton University!\n\n\nJuly 2024\n\n\nTarek Zikry joins the group as a postdoctoral scholar. Welcome Tarek!\n\n\nJuly 2024\n\n\nGenevera officially joins Columbia as a Professor of Statistics and member of the Center for Theoretical Neuroscience at the Zuckerman Institute for Mind, Brain, and Behavior and the Irving Institute for Cancer Dynamics.\n\n\nMay 2024\n\n\nGenevera is named an IMS Fellow! Link"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical Machine Learning is a PhD-level course on statistical and probabilistic foundations of machine learning. We will cover statistical machine learning methods, theory, and inference as well as how to apply such methods to real problems. We study both the foundations and modern methods in this field. Our goals are to understand statistical machine learning, to begin research that makes contributions to this field, and to develop good practices for building and applying these models in practice.  Lectures: MW 2:40pm - 3:55pm"
+  },
+  {
+    "objectID": "teaching.html#columbia-courses",
+    "href": "teaching.html#columbia-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical Machine Learning is a PhD-level course on statistical and probabilistic foundations of machine learning. We will cover statistical machine learning methods, theory, and inference as well as how to apply such methods to real problems. We study both the foundations and modern methods in this field. Our goals are to understand statistical machine learning, to begin research that makes contributions to this field, and to develop good practices for building and applying these models in practice.  Lectures: MW 2:40pm - 3:55pm"
+  },
+  {
+    "objectID": "teaching.html#data-science-machine-learning-education",
+    "href": "teaching.html#data-science-machine-learning-education",
+    "title": "Teaching",
+    "section": "Data Science & Machine Learning Education",
+    "text": "Data Science & Machine Learning Education\n\n\n\n\n\nGenevera Allen is a sought after educator in machine learning and data science. She has developed and taught a variety of machine learning courses as well as several novel experiential learning courses in data science. These include an interdisciplinary data science capstone program where students work on real-world challenges and data sets from a variety of industries and disciplines.\n\n\n\nRice Center for Transforming Data to Knowledge (Rice D2K Lab)\n\n\nIn 2018, Genevera Allen founded and served as the Faculty Director of Rice’s data science education center, informally known as the Rice D2K Lab. The D2K Lab is a hub for data science education, providing students with engagement, enrichment, and experiential learning opportunities by connecting them with real-world data science challenges from companies, community organizations, and researchers. As part of these efforts, Genevera developed several new experiential learning courses including a novel data science capstone program that serves as the cornerstone of Rice’s data science undergraduate and masters degree programs.\n\n\n\n\n\n\nEducation Research\n\n\nKey Publications:\n\n\nHere"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Genevera’s group develops new statistical machine learning tools to help people make reliable discoveries from large and complex data sets, especially in neuroscience and biomedicine.\nView Full List of Publications via Google Scholar"
+  },
+  {
+    "objectID": "research.html#data-driven-discovery",
+    "href": "research.html#data-driven-discovery",
+    "title": "Research",
+    "section": "",
+    "text": "Genevera’s group develops new statistical machine learning tools to help people make reliable discoveries from large and complex data sets, especially in neuroscience and biomedicine.\nView Full List of Publications via Google Scholar"
+  },
+  {
+    "objectID": "research.html#research-areas",
+    "href": "research.html#research-areas",
+    "title": "Research",
+    "section": "Research Areas",
+    "text": "Research Areas\n\nStatistical Machine Learning\n\nGraphical Models\n\n\n\n\n\nWe develop new types of probabilistic graphical models and graph learning strategies for representing, discovering, and visualizing relationships in large data sets. Our work includes developing new classes of graphical models for diverse data types and multi-modal data as well as new graph learning strategies to tackle challenges encountered in neuroscience and beyond.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nData Integration\n\n\n\n\n\nLarge data sets are often diverse, with multiple types of features measured on the same set of subjects or observations. We have developed a variety of interpretable machine learning techniques for discovering joint patterns in this so-called mixed multi-modal data.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nClustering\n\n\n\n\n\nClustering seeks to find groups in large data sets. We have developed several convex clustering approaches that offer accurate, principled, and flexible strategies along with built-in visualizations for clustering.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nDimension Reduction\n\n\n\n\n\nDimension reduction techniques are used for visualizing, exploring, and discovering patterns in large data sets. We have developed many dimension reduction techniques for complex and structured data; these include sparse tensor decompositions and generalizations of PCA for structured or multi-modal data.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nSparsity & High-Dimensional Statistics\n\n\n\n\n\nMuch of our research lies in the area of high-dimensional statistics, where the number of features exceeds the number of samples. A major focus in this area is on sparsity and structured sparsity to enhance feature selection and interpretability.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nTensors\n\n\n\n\n\nDirectly working with tensor, or multi-way array, data yields many computational and statistical advantages. Our work has focused on developing interpretable tensor decomposition strategies with applications in neuroscience, chemometrics, and genomics.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nEnsemble Learning\n\n\n\n\n\nRecently, we have begun developing new computationally efficient ensemble learning strategies called minipatch learning that also lead to improved accuracy and interpretability.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nQuilting & Patchwork Learning\n\n\n\n\n\nIn neuroscience, data integration, causal panel data and more, we often observe data in patches or blocks with huge portions of data that is not missing at random. We recently have developed new unsupervised approaches in this patchwork learning setting.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\n\nNeuroscience\n\nConnectomics\n\n\n\n\n\nConnectomics seeks to understand how brain regions or neurons are structurally and functionally connected. Our research has focused on two aspects: developing new techniques to discover patterns in connectomics data and developing new techniques to learn functional connections from neural activity.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nPattern Discovery\n\n\n\n\n\nOur research seeks to discover scientifically interpretable patterns from large-scale neuroscience data using a combination of statistical and interpretable machine learning approaches. We have applied our techniques to many types of macro and micro-scale recording and imaging technologies including MRI, functional MRI, diffusion imaging, EEG, PET, ECoG, calcium imaging, spike trains, and many more.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\n\nAI Ethics\n\nInterpretable Machine Learning\n\n\n\n\n\nRecently, we have begun working on statistical challenges in interpretable machine learning. Our focus is on developing validation and uncertainty quantification strategies for machine learning interpretations including feature importance and unsupervised discoveries.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\nAlgorithmic Fairness\n\n\n\n\n\nMachine learning algorithms can often inadvertently discriminate against certain subgroups by exacerbating subtle biases in historic data. Our recent work in the area of algorithmic fairness has sought to develop ways to audit and interpret bias mitigation strategies in machine learning.\n\n\nKey Publications:\n\n\nHere\n\n\n\n\n\n\n\nBiomedicine\n\nGenomics\n\n\n\n\n\nMuch of our research program has been inspired by challenges in high-throughput genomics and multi-omics data. We have developed new statistical machine learning techniques and applied these to study genomic mechanisms in cancer and neurological diseases.\n\n\nKey Publications:\n\n\nHere"
+  },
+  {
+    "objectID": "group.html",
+    "href": "group.html",
+    "title": "Group",
+    "section": "",
+    "text": "Genevera Allen"
+  },
+  {
+    "objectID": "group.html#pi",
+    "href": "group.html#pi",
+    "title": "Group",
+    "section": "",
+    "text": "Genevera Allen"
+  },
+  {
+    "objectID": "group.html#postdocs",
+    "href": "group.html#postdocs",
+    "title": "Group",
+    "section": "Postdocs",
+    "text": "Postdocs\n\n\n\n\n\n Tarek Zikry, PhD UNC Chapel Hill, Biostatistics, 2024."
+  },
+  {
+    "objectID": "group.html#phd-students",
+    "href": "group.html#phd-students",
+    "title": "Group",
+    "section": "PhD Students",
+    "text": "PhD Students\n\n\n\n\n\n Camille Little, PhD Candidate Electrical & Computer Engineering, Rice University."
+  },
+  {
+    "objectID": "group.html#undergraduate-students",
+    "href": "group.html#undergraduate-students",
+    "title": "Group",
+    "section": "Undergraduate Students",
+    "text": "Undergraduate Students\n\n\n\n\n\n Eric Chen, Class of 2025, Columbia."
+  },
+  {
+    "objectID": "group.html#research-group-meetings",
+    "href": "group.html#research-group-meetings",
+    "title": "Group",
+    "section": "Research Group Meetings",
+    "text": "Research Group Meetings\nStatistical Machine Learning research group meetings will take place on Wednesdays from 4:00pm - 5:30pm in SSW 1025 in Fall 2024. Email Genevera if you’d like to be added to our research group meeting list!"
+  },
+  {
+    "objectID": "group.html#openings",
+    "href": "group.html#openings",
+    "title": "Group",
+    "section": "Openings",
+    "text": "Openings\nInterested in joining the Statistical Machine Learning group? There are openings for a postdoctoral scholar starting anytime in 2025. Learn more here. Current Columbia graduate or undergraduate students interested in joining the group should email Genevera to learn more."
+  },
+  {
+    "objectID": "group.html#alumni",
+    "href": "group.html#alumni",
+    "title": "Group",
+    "section": "Alumni",
+    "text": "Alumni\n\nPostdoc Alumni\n\n\n\n\n\n Lili Zheng. Now an Assistant Professor at UIUC.\n\n\n\n\n\n\n\n Giuseppe Vinci. Now an Assistant Professor at the University of Notre Dame.\n\n\n\n\n\n\n\n Elizabeth Sweeney. Now at Corteva Agriscience.\n\n\n\n\nPhD Alumni\n\n\n\n\n\n Andersen Chang. Now at Baylor College of Medicine.\n\n\n\n\n\n\n\n Luqin Gan. Now at HAP Capital.\n\n\n\n\n\n\n\n Tianyi Yao. Now at Microsoft.\n\n\n\n\n\n\n\n Minjie Wang. Now an Assistant Professor at Binghamton University.\n\n\n\n\n\n\n\n John Nagorski. Now at Encino Energy.\n\n\n\n\n\n\n\n Yulia Hendrix. Now at Iodine Software.\n\n\n\n\n\n\n\n Yue Hu. Now at Liberty Mutual.\n\n\n\n\n\n\n\n Manjari Narayan. Now at Speculative Technologies.\n\n\n\n\nUndergraduate Alumni\n\nChuk Uzowihe.\nZach Rewolinski. Now a Berkeley Statistics PhD student.\nQuan Le. Now a Yale Statistics PhD student.\nNathan Powell.\nTiffany Tang. Now an Assistant Professor at Notre Dame.\nAlex Hayes.\nWilliam Deadrick.\nAndrew Dumit.\nRaymond Cano.\nTianyi Yao.\nJoshua Lipshultz.\nEmily Burnett.\nJake Kornblau.\nLinda Zheng.\nQijia Jiang.\nConnor Barnhill.\nJessica Gan."
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "Check out our group’s software on Github"
+  },
+  {
+    "objectID": "software.html#highlighted-software",
+    "href": "software.html#highlighted-software",
+    "title": "Software",
+    "section": "Highlighted Software",
+    "text": "Highlighted Software\n\n\n clustRviz enables fast computation and easy visualization of convex clustering and biclustering solution paths.\n\n\n TCGA2STAT allows users to easily download The Cancer Genome Atlas (TCGA) data directly into a format ready for integrative statistical analysis in R or Python."
+  }
+]

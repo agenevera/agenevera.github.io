@@ -1,0 +1,22 @@
+---
+title: "Software"
+---
+
+<br> 
+
+[<button type="button" class="btn btn-primary">Check out our group's software on Github</button>](https://github.com/DataSlingers)
+
+<br>
+
+## Highlighted Software
+
+::: {.grid}
+::: {.g-col-6}
+![](images/clustRviz_software.png)
+[**clustRviz**](https://github.com/DataSlingers/clustRviz) enables fast computation and easy visualization of convex clustering and biclustering solution paths.
+:::
+::: {.g-col-6}
+![](images/tcga2stat_software.png)
+[**TCGA2STAT**](https://liuzlab.org/TCGA2STAT/) allows users to easily download The Cancer Genome Atlas (TCGA) data directly into a format ready for integrative statistical analysis in R or Python. 
+:::
+:::

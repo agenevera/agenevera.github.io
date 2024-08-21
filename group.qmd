@@ -1,0 +1,207 @@
+---
+title: "Group"
+---
+
+
+## PI
+
+::: {.grid}
+::: {.g-col-3}
+![](images/Genevera_Allen-headshot_cropped.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+[Genevera Allen](bio.qmd)
+:::
+:::
+
+## Postdocs
+
+::: {.grid}
+::: {.g-col-3}
+![](images/headshot_square_tarekzikry.png)
+:::
+::: {.g-col-5}
+<br><br>
+Tarek Zikry, PhD UNC Chapel Hill, Biostatistics, 2024.  
+:::
+:::
+
+
+## PhD Students
+
+::: {.grid}
+::: {.g-col-3}
+![](images/camille_heashot-e1624913125209.jpg)
+:::
+::: {.g-col-5}
+<br><br>
+Camille Little, PhD Candidate Electrical & Computer Engineering, Rice University. 
+:::
+:::
+
+
+
+## Undergraduate Students
+
+::: {.grid}
+::: {.g-col-3}
+![](images/eric_chen_headshot.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+Eric Chen, Class of 2025, Columbia.  
+:::
+:::
+
+
+
+## Research Group Meetings
+
+Statistical Machine Learning research group meetings will take place on Wednesdays from 4:00pm - 5:30pm in SSW 1025 in Fall 2024.  Email Genevera if you'd like to be added to our research group meeting list!
+
+
+## Openings
+
+Interested in joining the Statistical Machine Learning group?  There are openings for a postdoctoral scholar starting anytime in 2025.  Learn more [here]().  Current Columbia graduate or undergraduate students interested in joining the group should email Genevera to learn more.
+
+## Alumni
+
+### Postdoc Alumni
+
+::: {.grid}
+::: {.g-col-2}
+![](images/LiliZheng2368.jpg)
+:::
+::: {.g-col-5}
+<br><br>
+[Lili Zheng](). Now an Assistant Professor at UIUC.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Giuseppe-Vinci.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+[Giuseppe Vinci](). Now an Assistant Professor at the University of Notre Dame.
+:::
+:::
+
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Elizabeth-Sweeney.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+Elizabeth Sweeney.  Now at Corteva Agriscience.  
+:::
+:::
+
+
+
+### PhD Alumni
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Andersen-Chang-Profile-350x350-1.png)
+:::
+::: {.g-col-5}
+<br><br>
+Andersen Chang. Now at Baylor College of Medicine.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Luqin-Gan-Headshot.jpg)
+:::
+::: {.g-col-5}
+<br><br>
+Luqin Gan.  Now at HAP Capital.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Tianyi-Yao.png)
+:::
+::: {.g-col-5}
+<br><br>
+Tianyi Yao.  Now at Microsoft.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Minjie-e1624914007632.jpg)
+:::
+::: {.g-col-5}
+<br><br>
+[Minjie Wang]().  Now an Assistant Professor at Binghamton University. 
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/John-Nagorski.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+John Nagorski.  Now at Encino Energy.
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Yulia-Hendrix.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+Yulia Hendrix.  Now at Iodine Software.  
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Yue-Hu.jpeg)
+:::
+::: {.g-col-5}
+<br><br>
+Yue Hu. Now at Liberty Mutual.  
+:::
+:::
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Manjari_Narayan_photo.png)
+:::
+::: {.g-col-5}
+<br><br>
+Manjari Narayan.  Now at Speculative Technologies.  
+:::
+:::
+
+
+
+### Undergraduate Alumni
+
+- Chuk Uzowihe.
+- Zach Rewolinski. Now a Berkeley Statistics PhD student.
+- Quan Le. Now a Yale Statistics PhD student.
+- Nathan Powell.
+- [Tiffany Tang](). Now an Assistant Professor at Notre Dame.
+- Alex Hayes.
+- William Deadrick.
+- Andrew Dumit.
+- Raymond Cano.
+- Tianyi Yao.
+- Joshua Lipshultz.
+- Emily Burnett.
+- Jake Kornblau.
+- Linda Zheng.
+- Qijia Jiang.
+- Connor Barnhill.
+- Jessica Gan.

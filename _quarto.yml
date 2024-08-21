@@ -1,0 +1,30 @@
+project: 
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "Genevera Allen"
+  description:
+    Genevera Allen Website
+  site-url: "https://genevera-allen.com/"
+  navbar:
+    search: true
+    right:
+      - text: "Home"
+        href: "./index.html"
+      - text: "Research"
+        href: "./research.html"
+      - text: "Group"
+        href: "./group.html"
+      - text: "Teaching"
+        href: "./teaching.html"
+      - text: "Software"
+        href: "./software.html"
+      - text: "News"
+        href: "./news.html"
+
+format:
+  html: 
+    theme: 
+      - flatly
+    toc: false

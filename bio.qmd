@@ -1,0 +1,24 @@
+---
+title: "Genevera Allen"
+---
+
+
+::: {.grid}
+
+::: {.g-col-5}
+
+![](images/Genevera_Allen-headshot.jpeg)
+:::
+:::
+
+## Bio
+
+Genevera Allen is a Professor of Statistics at Columbia University.  She is also a member of the Center for Theoretical Neuroscience, the Zuckerman Institute for Mind, Brain, and Behavior, and the Irving Institute for Cancer Dynamics. Prior to joining Columbia, Dr. Allen spent fourteen years at Rice University in the Departments of Electrical and Computer Engineering, Statistics, and Computer Science; she was also the Founder and served as the Faculty Director of Rice's data science education center, informally known as the Rice D2K Lab.
+
+Dr. Allen’s research develops new statistical machine learning tools to help people make reliable discoveries from data. She is known for her methods and theory work in the areas of unsupervised learning, interpretable machine learning, data integration, graphical models, and high-dimensional statistics.  Her work is motivated by solving real scientific problems, especially in the areas of neuroscience and bioinformatics.
+
+Dr. Allen is the recipient of several honors including a National Science Foundation Career Award, Rice University’s Duncan Achievement Award for Outstanding Faculty, and in 2014, she was named to the “Forbes ’30 under 30′: Science and Healthcare” list.  She is also an elected fellow of the American Statistical Association, Institute of Mathematical Statistics, and International Statistics Institute.
+
+Dr. Allen serves as an Action Editor for the Journal of Machine Learning Research, an Associate Editor for the Journal of the American Statistical Association: Theory and Methods and the Journal of the Royal Statistical Society: Series B, on the editorial board of Foundations and Trends in Machine Learning and Annual Reviews of Statistics and Its Application, and finally as a Series Editor for Springer Texts in Statistics.
+
+Dr. Allen received her Ph.D. in statistics from Stanford University, under the mentorship of Prof. Robert Tibshirani, and her bachelors, also in statistics, from Rice University.

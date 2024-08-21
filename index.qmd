@@ -1,0 +1,54 @@
+---
+title: "Genevera Allen"
+---
+
+::: {.grid}
+
+::: {.g-col-5}
+
+
+![](images/Genevera_Allen-headshot.jpeg)
+
+[Genevera's Bio](bio.qmd)
+
+[Curriculum Vitae](files/Genevera_Allen_CV_summer_2024.pdf)
+
+[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=gIUd12QAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+#### Contact 
+Email: *firstname.lastname@columbia.edu*
+Offices: SSW 1028 & JLG L5-068
+
+
+:::
+
+::: {.g-col-1}
+:::
+
+::: {.g-col-6}
+ 
+Genevera Allen is a Professor of [Statistics](https://stat.columbia.edu/) at [Columbia University](https://www.columbia.edu/).  She is also a member of the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/), the [Zuckerman Institute for Mind, Brain, and Behavior](https://zuckermaninstitute.columbia.edu/), and the [Irving Institute for Cancer Dynamics](https://cancerdynamics.columbia.edu/). Prior to joining Columbia, Dr. Allen spent fourteen years at [Rice University](https://www.rice.edu/) where she founded and directed Rice's data science education center, informally known as the [Rice D2K Lab](https://d2k.rice.edu/).  
+
+Dr. Allen’s research develops new **statistical machine learning** tools to help people make **reliable discoveries from data**. 
+
+
+#### Research Interests
+- Unsupervised Learning
+- Interpretable Machine Learning
+- Graphical Models
+- Data Integration
+- High-Dimensional Statistics
+- Neuroscience
+- Biomedicine
+
+
+#### Openings
+
+We have openings for postdoctoral scholars, PhD students, and undergraduates.  Learn more [here]().  
+
+
+
+:::
+
+:::

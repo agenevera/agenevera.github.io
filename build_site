@@ -1,6 +1,5 @@
 #!/usr/bin/env Rscript
-library(rmarkdown)
-library(distill)
-rmarkdown::render_site()
-unlink(list.files("docs", pattern = "Rmd", recursive = TRUE, full.names = TRUE))
-system("git add *")
+library(quarto)
+quarto::quarto_render(".")
+system("git add docs/*")
+q("no")
