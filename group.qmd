@@ -144,6 +144,19 @@ Tianyi Yao.  Now at Microsoft.
 :::
 :::
 
+
+::: {.grid}
+::: {.g-col-2}
+![](images/Frederick_Campbell_Profile-350x350-2.jpg)
+:::
+::: {.g-col-5}
+<br><br>
+Frederick Campbell.  Now at Microsoft.
+:::
+:::
+
+
+
 ::: {.grid}
 ::: {.g-col-2}
 ![](images/John-Nagorski.jpeg)

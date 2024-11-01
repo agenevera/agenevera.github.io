@@ -25,7 +25,14 @@ We develop new types of probabilistic graphical models and graph learning strate
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- E. Yang, P. Ravikumar, G. I. Allen, and Z. Liu, “Graphical Models via Univariate Exponential Family Distributions”, *Journal of Machine Learning Research*, **16**:3813-3847, 2015. [link](https://www.jmlr.org/papers/volume16/yang15a/yang15a.pdf)
+- E. Yang, Y. Baker, P. Ravikumar, G. I. Allen, and Z. Liu, “Mixed Graphical Models via
+Exponential Families”, In *Artificial Intelligence and Statistics (AISTATS)*, oral presentation, 2014. [link](https://proceedings.mlr.press/v33/yang14a.pdf)
+- L. Zheng and G. I. Allen, “Graphical Model Inference with Erosely Measured Data”, (To Appear) *Journal of American Statistical Association: Theory & Methods*, arXiv:2210.11625, 2023. [link](https://arxiv.org/pdf/2210.11625)
+- M. Wang and G. I. Allen, “Thresholded Graphical Lasso Adjusts for Latent Variables”, *Biometrika*, **110**:3, 681-697, 2023. [link](https://par.nsf.gov/servlets/purl/10470624)
+- G. Vinci, G. Dasarathy, and G. I. Allen, “Graph Quilting: Graphical Model Selection from Partially Observed Covariances”, arXiv:1912.05573, 2020. [link](https://arxiv.org/pdf/1912.05573)
+- E. Yang, P. Ravikumar, G. I. Allen, and Z. Liu, “On Poisson Graphical Models”, In *Advances in Neural Information Processing Systems (NeurIPS)*, 2013. [link](https://proceedings.neurips.cc/paper/2013/file/43feaeeecd7b2fe2ae2e26d917b6477d-Paper.pdf)
+- A. Chang and G. I. Allen, “Subbotin Graphical Models for Extreme Value Dependencies with Applications to Functional Neuronal Connectivity”, *Annals of Applied Statistics*, **17**:3, 2364-2386, 2023. [link](https://arxiv.org/pdf/2106.11554)
 </details>
 
 :::
@@ -45,7 +52,13 @@ Large data sets are often diverse, with multiple types of features measured on t
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- T. M. Tang and G. I. Allen, “Integrated Principal Components Analysis”, *Journal of Machine Learning Research*, **22**:198, 1-71, 2021. [link](https://www.jmlr.org/papers/volume22/20-084/20-084.pdf)
+- M. Wang and G. I. Allen, “Integrative Generalized Convex Clustering Optimization and Feature Selection for Mixed Multi-View Data”, *Journal of Machine Learning Research*, **22**:1-73, 2021. [link](https://www.jmlr.org/papers/volume22/19-1012/19-1012.pdf)
+- Y. Baker, T. M. Tang, and G. I. Allen, “Feature Selection for Data Integration with Mixed Multiview Data”, *Annals of Applied Statistics*, **14**:4, 1676-1698, 2020. [link](https://arxiv.org/pdf/1903.11232)
+- J. Liu, L. Zheng, Z. Zhang, and G. I. Allen, “Joint Semi-Symmetric Tensor PCA for Integrating Multi-modal Populations of Networks”, arXiv:2312.14416, 2023. [link](https://arxiv.org/pdf/2312.14416)
+- Y. W. Wan, G. I. Allen, and Z. Liu, “TCGA2STAT: Simple TCGA Data Access for Integrated Statistical Analysis in R”, *Bioinformatics*, **32**:6, 952-954, 2016. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIUd12QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=gIUd12QAAAAJ:RHpTSmoSYBkC)
+- E. Yang, Y. Baker, P. Ravikumar, G. I. Allen, and Z. Liu, “Mixed Graphical Models via
+Exponential Families”, In *Artificial Intelligence and Statistics (AISTATS)*, oral presentation, 2014. [link](https://proceedings.mlr.press/v33/yang14a.pdf
 </details>
 
 :::
@@ -59,11 +72,17 @@ Large data sets are often diverse, with multiple types of features measured on t
 ![](images/Clustering-thumbnail.jpg)
 :::
 ::: {.g-col-9}
-Clustering seeks to find groups in large data sets.  We have developed several convex clustering approaches that offer accurate, principled, and flexible strategies along with built-in visualizations for clustering.  
+Clustering seeks to find groups in large data sets.  We have developed several convex clustering approaches that offer reliable, principled, and flexible strategies along with built-in visualizations for clustering.  
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- E. C. Chi, G. I. Allen, and R. Baraniuk, “Convex Biclustering”, *Biometrics*, **73**:1, 10-19, 2017. [link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8d15ab3ba651eacb805fe7d540f7aa4c6a955ca7)
+- M. Weylandt, J. Nagorski, and G. I. Allen, “Dynamic Visualization and Fast Computation for Convex Clustering via Algorithmic Regularization”, *Journal of Computational and Graphical Statistics*, **29**:1, 87-96, 2020.  [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC7518335/)
+- M. Wang and G. I. Allen, “Integrative Generalized Convex Clustering Optimization and Feature Selection for Mixed Multi-View Data”, *Journal of Machine Learning Research*, **22**:1-73, 2021. [link](https://www.jmlr.org/papers/volume22/19-1012/19-1012.pdf)
+- Y. Baker, T. M. Tang, and G. I. Allen, “Feature Selection for Data Integration with Mixed Multiview Data”, *Annals of Applied Statistics*, **14**:4, 1676-1698, 2020. [link](https://arxiv.org/pdf/1903.11232)
+- L. Gan and G. I. Allen, “Fast and Interpretable Consensus Clustering via Minipatch Learning”, *PLoS Computational Biology*, **18**:10, e1010577, 2022. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010577)
+- M. Wang, T. Yao, and G. I. Allen, “Supervised Convex Clustering”, *Biometrics*, **79**:4, 3846-3858, 2023. [link](https://academic.oup.com/biometrics/article/79/4/3846/7587579)
+- L. Zheng, A. Chang, and G. I. Allen, “Cluster Quilting: Spectral Clustering for Patchwork Learning”, arXiv:2406.13833, 2024. [link](https://arxiv.org/pdf/2406.13833)
 </details>
 :::
 :::
@@ -79,7 +98,12 @@ Dimension reduction techniques are used for visualizing, exploring, and discover
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- G. I. Allen, L. Grosenick and J. Taylor, “A Generalized Least Squares Matrix Decomposition”, *Journal of the American Statistical Association: Theory and Methods*, **109**:505, 145-159, 2014. [link](https://www.researchgate.net/profile/Logan-Grosenick/publication/48208333_A_Generalized_Least-Square_Matrix_Decomposition/links/573b544c08ae298602e45243/A-Generalized-Least-Square-Matrix-Decomposition.pdf)
+- G. I. Allen, “Sparse Higher-Order Principal Components Analysis”, In *Artificial Intelligence and Statistics (AISTATS)*, 27-36, 2012. [link](https://proceedings.mlr.press/v22/allen12/allen12.pdf)
+- T. M. Tang and G. I. Allen, “Integrated Principal Components Analysis”, *Journal of Machine Learning Research*, **22**:198, 1-71, 2021. [link](https://www.jmlr.org/papers/volume22/20-084/20-084.pdf)
+- G. I. Allen, and M. Weylandt, “Sparse and Functional Principal Components Analysis”, In *Proceedings of the IEEE Data Science Workshop*, 2019. [link](https://arxiv.org/pdf/1309.2895)
+- G. I. Allen and M. Maletic-Savatic, “Sparse Non-negative Generalized PCA with Applications to Metabolomics”, *Bioinformatics*, **27**:21, 3029-3035, 2011. [link](https://academic.oup.com/bioinformatics/article/27/21/3029/218921)
+- J. Liu, L. Zheng, Z. Zhang, and G. I. Allen, “Joint Semi-Symmetric Tensor PCA for Integrating Multi-modal Populations of Networks”, arXiv:2312.14416, 2023. [link](https://arxiv.org/pdf/2312.14416)
 </details>
 :::
 :::
@@ -98,7 +122,11 @@ Much of our research lies in the area of high-dimensional statistics, where the 
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+-  F. Campbell and G. I. Allen, “Within Group Variable Selection through the Exclusive Lasso”, *Electronic Journal of Statistics*, **11**:2, 4220-4257, 2017. [link](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-11/issue-2/Within-group-variable-selection-through-the-Exclusive-Lasso/10.1214/17-EJS1317.full)
+- G. I. Allen, “Automatic Feature Extraction via Weighted Kernels and Regularization”, *Journal of Computational and Graphical Statistics*, **22**:2, 284-299, 2013. [link](https://www.tandfonline.com/doi/abs/10.1080/10618600.2012.681213)
+- Y. Baker, T. M. Tang, and G. I. Allen, “Feature Selection for Data Integration with Mixed Multiview Data”, *Annals of Applied Statistics*, **14**:4, 1676-1698, 2020. [link](https://arxiv.org/pdf/1903.11232)
+- A. Chang, M. Wang, and G. I. Allen, “Sparse Regression for Extreme Values”, *Electronic Journal of Statistics*, **15**:2, 5995-6035, 2021. [link](https://par.nsf.gov/servlets/purl/10470614)
+- Y. Hu, E. C. Chi, and G. I. Allen, “ADMM Algorithmic Regularization Paths for Sparse Statistical Learning”, In *Splitting Methods in Communication and Imaging, Science and Engineering*, R. Glowinski, W. Yin, and S. Osher (eds), Springer, 433-459, 2016. [link](https://arxiv.org/pdf/1504.06637)
 </details>
 :::
 :::
@@ -119,7 +147,11 @@ Directly working with tensor, or multi-way array, data yields many computational
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- G. I. Allen, “Sparse Higher-Order Principal Components Analysis”, In *Artificial Intelligence and Statistics (AISTATS)*, 27-36, 2012. [link](https://proceedings.mlr.press/v22/allen12/allen12.pdf)
+- G. I. Allen, “Multi-way Functional Principal Components Analysis”, In *IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing*, 2013. [link](https://signalprocessingsociety.org/CAMSAP2013/papers/1569807425.pdf)
+- Z. Zhang, G. I. Allen, H. Zhu, D. Dunson, “Tensor Network Factorizations: Relationships between Human Brain Structural Connectomes and Traits”, *NeuroImage*, **197**:330-343, 2019. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC6613218/)
+- J. Liu, L. Zheng, Z. Zhang, and G. I. Allen, “Joint Semi-Symmetric Tensor PCA for Integrating Multi-modal Populations of Networks”, arXiv:2312.14416, 2023. [link](https://arxiv.org/pdf/2312.14416)
+- K. Geyer, F. Campbell, A. Chang, J. Magnotti, M. Beauchamp, G. I. Allen, “Interpretable Visualization and Higher-Order Dimension Reduction for ECoG Data”, In *Proceedings of the The International Workshop on Big Data Reduction* held with the *2020 IEEE International Conference on Big Data*, 2020. [link](https://arxiv.org/pdf/2011.09447)
 </details>
 :::
 :::
@@ -133,11 +165,15 @@ Directly working with tensor, or multi-way array, data yields many computational
 ![](images/fig_minipatch_illustration.png)
 :::
 ::: {.g-col-9}
-Recently, we have begun developing new computationally efficient ensemble learning strategies called minipatch learning that also lead to improved accuracy and interpretability.
+Recently, we have begun developing new computationally efficient ensemble learning strategies called minipatch learning that also lead to improved statistical properties and interpretability.
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- T. Yao, D. LeJeune, H. Javadi, R. G. Baraniuk, and G. I. Allen, “Minipatch Learning as Implicit Ridge-Like Regularization”, In *IEEE International Conference on Big Data and Smart Computing (BigComp)*, 2021. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8570556/)
+- M. T. Toghani and G. I. Allen, “MP-Boost: Minipatch Boosting via Adaptive Feature and Observation Sampling”, In *IEEE International Conference on Big Data and Smart Computing (BigComp)*, 2021. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC8562710/)
+- L. Gan and G. I. Allen, “Fast and Interpretable Consensus Clustering via Minipatch Learning”, *PLoS Computational Biology*, **18**:10, e1010577, 2022. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010577)
+- L. Gan, L. Zheng, and G. I. Allen, “Model-Agnostic Confidence Intervals for Feature Importance: A Fast and Powerful Approach Using Minipatch Ensembles”, arXiv:2206.02088, 2022. [link](https://arxiv.org/pdf/2206.02088)
+- T. Yao, M. Wang, and G. I. Allen, “Fast and Accurate Graph Learning for Huge Data via Minipatch Ensembles”, arXiv:2110.12067, 2021. [link](https://arxiv.org/pdf/2110.12067)
 </details>
 :::
 :::
@@ -154,7 +190,11 @@ In neuroscience, data integration, causal panel data and more, we often observe 
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- G. Vinci, G. Dasarathy, and G. I. Allen, “Graph Quilting: Graphical Model Selection from Partially Observed Covariances”, arXiv:1912.05573, 2020. [link](https://arxiv.org/pdf/1912.05573)
+- A. Chang, L. Zheng and G. I. Allen, “Low-Rank Covariance Completion for Graph Quilting with Applications to Functional Connectivity”, arXiv:2209.08273, 2022. [link](https://arxiv.org/pdf/2209.08273)
+- L. Zheng and G. I. Allen, “Graphical Model Inference with Erosely Measured Data”, (To Appear) *Journal of American Statistical Association: Theory & Methods*, arXiv:2210.11625, 2023. [link](https://arxiv.org/pdf/2210.11625)
+- A. Chang, L. Zheng, G. Dasarthy, G. I. Allen, ”Nonparanormal Graph Quilting with Applications to Calcium Imaging”, Stat, 12:1, e623, 2023. [link](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.623)
+- L. Zheng, A. Chang, and G. I. Allen, “Cluster Quilting: Spectral Clustering for Patchwork Learning”, arXiv:2406.13833, 2024. [link](https://arxiv.org/pdf/2406.13833)
 </details>
 :::
 :::
@@ -173,7 +213,16 @@ Connectomics seeks to understand how brain regions or neurons are structurally a
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- M. Narayan and G. I. Allen, “Mixed Effects Models for Resampled Network Statistics Improves Statistical Power to Find Differences in Multi-Subject Functional Connectivity” *Frontiers in Neuroscience*, **10**:108, 2016. [link](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2016.00108/full)
+- S. Tomson, M. Narayan, G. I. Allen, D. Eagleman, “Neural Networks of Synesthesia”, *Journal of Neuroscience*, **33**:35, 14098-14106, 2013. [link](https://www.jneurosci.org/content/jneuro/33/35/14098.full.pdf)
+- S. Tomson, M. Schreiner, M. Narayan, T. Rosser; N. Enrique, A. J. Silva, G. I. Allen, S. Y. Bookheimer, and C. Bearden, “Resting state functional MRI reveals abnormal network connectivity in Neurofibromatosis 1”, *Human Brain Mapping*, **36**:11, 4566-4581, 2015. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC4619152/)
+- M. Wang and G. I. Allen, “Thresholded Graphical Lasso Adjusts for Latent Variables”, *Biometrika*, **110**:3, 681-697, 2023. [link](https://par.nsf.gov/servlets/purl/10470624)
+- G. Vinci, G. Dasarathy, and G. I. Allen, “Graph Quilting: Graphical Model Selection from Partially Observed Covariances”, arXiv:1912.05573, 2020. [link](https://arxiv.org/pdf/1912.05573)
+- A. Chang, L. Zheng and G. I. Allen, “Low-Rank Covariance Completion for Graph Quilting with Applications to Functional Connectivity”, arXiv:2209.08273, 2022. [link](https://arxiv.org/pdf/2209.08273)
+- A. Chang and G. I. Allen, “Subbotin Graphical Models for Extreme Value Dependencies with Applications to Functional Neuronal Connectivity”, *Annals of Applied Statistics*, **17**:3, 2364-2386, 2023. [link](https://arxiv.org/pdf/2106.11554)
+- T. Yao, M. Wang, and G. I. Allen, “Fast and Accurate Graph Learning for Huge Data via Minipatch Ensembles”, arXiv:2110.12067, 2021. [link](https://arxiv.org/pdf/2110.12067)
+- A. Chang, T. Yao, and G. I. Allen, “Graphical Models and Dynamic Factor Models for Modeling Functional Brain Connectivity”, In *Proceedings of the IEEE Data Science Workshop*, 2019. [link](https://ieeexplore.ieee.org/abstract/document/8755783?casa_token=QRdm3GqNkG4AAAAA:dWbhysYt6989yPF4GBEOMviZYfWV5CAbuBSveOiSV_FtUmaHYgbQ1hyaf_XmSizQGsoQHjbq)
+- Z. Zhang, G. I. Allen, H. Zhu, D. Dunson, “Tensor Network Factorizations: Relationships between Human Brain Structural Connectomes and Traits”, *NeuroImage*, **197**:330-343, 2019. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC6613218/)
 </details>
 :::
 :::
@@ -192,7 +241,12 @@ Our research seeks to discover scientifically interpretable patterns from large-
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- Z. Zhang, G. I. Allen, H. Zhu, D. Dunson, “Tensor Network Factorizations: Relationships between Human Brain Structural Connectomes and Traits”, *NeuroImage*, **197**:330-343, 2019. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC6613218/)
+- K. Geyer, F. Campbell, A. Chang, J. Magnotti, M. Beauchamp, G. I. Allen, “Interpretable Visualization and Higher-Order Dimension Reduction for ECoG Data”, In *Proceedings of the The International Workshop on Big Data Reduction* held with the *2020 IEEE International Conference on Big Data*, 2020. [link](https://arxiv.org/pdf/2011.09447)
+- J. Liu, L. Zheng, Z. Zhang, and G. I. Allen, “Joint Semi-Symmetric Tensor PCA for Integrating Multi-modal Populations of Networks”, arXiv:2312.14416, 2023. [link](https://arxiv.org/pdf/2312.14416)
+- G. I. Allen, and M. Weylandt, “Sparse and Functional Principal Components Analysis”, In *Proceedings of the IEEE Data Science Workshop*, 2019. [link](https://arxiv.org/pdf/1309.2895)
+- Y. Hu and G. I. Allen, “Local-Aggregate Modeling for Big-Data via Distributed Optimization: Applications to Neuroimaging”, *Biometrics*, **71**:4, 905-917, 2015. [link](https://academic.oup.com/biometrics/article-abstract/71/4/905/7511581?redirectedFrom=PDF)
+- . T. Yao, E. M. Sweeney, J. Nagorski, J. Shulman, and G. I. Allen, “Quantifying cognitive resilience in Alzheimer’s Disease: The Alzheimer’s Disease Cognitive Resilience Score”, PLoS One, 15:11, e0241707, 2020. [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241707)
 </details>
 :::
 :::
@@ -213,7 +267,8 @@ Recently, we have begun working on statistical challenges in interpretable machi
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- G. I. Allen, L. Gan, L. Zheng, ”Interpretable Machine Learning for Discovery: Statistical Challenges and Opportunities”, Annual Review of Statistics and its Application, 11:97-121, 2024. [link](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040120-030919?crawler=true)
+- L. Gan, L. Zheng, and G. I. Allen, “Model-Agnostic Confidence Intervals for Feature Importance: A Fast and Powerful Approach Using Minipatch Ensembles”, arXiv:2206.02088, 2022. [link](https://arxiv.org/pdf/2206.02088)
 </details>
 :::
 :::
@@ -230,7 +285,9 @@ Machine learning algorithms can often inadvertently discriminate against certain
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- C. O. Little, M. Weylandt, and G. I. Allen, “To the Fairness Frontier and Beyond: Identifying, Quantifying, and Optimizing the Fairness-Accuracy Pareto Frontier”, arXiv:2206.00074, 2022. [link](https://arxiv.org/pdf/2206.00074)
+- C. O. Little, D. H. Lina, and G. I. Allen, “Fair Feature Importance Scores for Interpreting Tree-Based Methods and Surrogates”, (To Appear), *Transactions on Machine Learning Research*, arXiv:2310.04352, 2024. [link](https://openreview.net/pdf?id=72mDxlzRZ1)
+- M. Navarro, C. O. Little, G. I. Allen, and S. Segarra, “Data Augmentation via Subgroup Mixup for Improving Fairness”, In *IEEE International Conference on Acoustics, Speech, and Signal Processing*, 7350-7354, 2024. [link](https://arxiv.org/pdf/2309.07110)
 </details>
 :::
 :::
@@ -249,7 +306,11 @@ Much of our research program has been inspired by challenges in high-throughput 
 
 <details>
 <summary>Key Publications:</summary>
-- Here
+- Y. W. Wan, G. I. Allen, and Z. Liu, “TCGA2STAT: Simple TCGA Data Access for Integrated Statistical Analysis in R”, *Bioinformatics*, **32**:6, 952-954, 2016. [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIUd12QAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=gIUd12QAAAAJ:RHpTSmoSYBkC)
+- G. I. Allen and Z. Liu, “A Local Poisson Graphical Model for Inferring Networks from Next Generation Sequencing Data”, *IEEE Transactions on NanoBioscience*, **12**:3, 1-10, 2013. [link](https://ieeexplore.ieee.org/abstract/document/6578145)
+- G. I. Allen and M. Maletic-Savatic, “Sparse Non-negative Generalized PCA with Applications to Metabolomics”, *Bioinformatics*, **27**:21, 3029-3035, 2011. [link](https://academic.oup.com/bioinformatics/article/27/21/3029/218921)
+- L. Gan and G. I. Allen, “Fast and Interpretable Consensus Clustering via Minipatch Learning”, *PLoS Computational Biology*, **18**:10, e1010577, 2022. [link](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010577)
+-  L. Gan, G. Vinci, and G. I. Allen, “Correlation Imputation for Single Cell RNA-seq”, *Journal of Computational Biology*, **29**:5, 465-482, 2022. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9125575/)
 </details>
 :::
 :::

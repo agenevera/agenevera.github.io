@@ -6,6 +6,16 @@ title: "News"
 
 ::: {.grid}
 
+
+::: {.g-col-2}
+September 2024
+:::
+::: {.g-col-10}
+Genevera was selected to give the 2026 IMS Medallion Lecture! [Link](https://news.columbia.edu/news/five-columbia-faculty-receive-top-honor-statistics)
+:::
+
+
+
 ::: {.g-col-2}
 August 2024
 :::
@@ -44,7 +54,7 @@ Tarek Zikry joins the group as a postdoctoral scholar.  Welcome Tarek!
 July 2024
 :::
 ::: {.g-col-10}
-Genevera officially joins Columbia as a Professor of Statistics and member of the Center for Theoretical Neuroscience at the Zuckerman Institute for Mind, Brain, and Behavior and the Irving Institute for Cancer Dynamics.  
+Genevera officially joins Columbia as a Professor of Statistics and member of the Center for Theoretical Neuroscience at the Zuckerman Institute for Mind, Brain, and Behavior [(Profile)](https://zuckermaninstitute.columbia.edu/genevera-i-allen-phd) and the Irving Institute for Cancer Dynamics [(News Story)](https://cancerdynamics.columbia.edu/news/new-horizons-data-science-welcoming-genevera-allen-iicd).  
 :::
 
 
